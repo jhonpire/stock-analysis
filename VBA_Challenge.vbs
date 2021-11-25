@@ -38,11 +38,13 @@ Sub AllStocksAnalysisRefactored()
     'Get the number of rows to loop over
     RowCount = Cells(Rows.Count, "A").End(xlUp).Row
     
-    '1a) Create a ticker Index
-    
+        '1a) Create a ticker Index
+        tickerIndex = 0
 
-    '1b) Create three output arrays   
-    
+        '1b) Create three output arrays   
+        Dim tickerVolumes as Long
+        Dim tickerStartingPrices as Single
+        Dim tickerEndingPrices as Single
     
     ''2a) Create a for loop to initialize the tickerVolumes to zero. 
     

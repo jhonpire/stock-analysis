@@ -27,14 +27,14 @@ Analysis of Green Energy Stock
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-    Based on the Launch date, it seems like Green Energy stocks have been losing value drastically compared to previous years, not only on the targeted stock "DQ" But the majority of the stocks available in our dataset.
+What are two conclusions you can draw about the Outcomes based on Launch Date?
+    - Based on the Launch date, it seems like Green Energy stocks have been losing value drastically compared to previous years, not only on the targeted stock "DQ" But the majority of the stocks available in our dataset.
 
-- What can you conclude about the Outcomes based on Goals?
-    Based on the goal to determine if DQ was a good stock to invest, we have determined that it was not a viable stock to place any investments into.
+What can you conclude about the Outcomes based on Goals?
+    - Based on the goal to determine if DQ was a good stock to invest, we have determined that it was not a viable stock to place any investments into.
 
-- What are some limitations of this dataset?
-    This dataset only contains the information of 2 years of performance records which in most cases may be too little information to make this type of decision.
+What are some limitations of this dataset?
+    - This dataset only contains the information of 2 years of performance records which in most cases may be too little information to make this type of decision.
 
-- What are some other possible tables and/or graphs that we could create?
-    we could create Bar graphs to compare side by side the performance of each stock based on the year of investments on the stock market.
+What are some other possible tables and/or graphs that we could create?
+    - According to the type of information available, we could create ***Bar Graphs*** to compare side by side the performance of each stock based on the year of investments on the stock market.

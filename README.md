@@ -7,7 +7,7 @@ When starting this project the main objective was utilizing Microsoft Excel to c
 ## Overview of Project
 This project is an analysis of historic data of 12 green stocks to determine how appropriate it may be for the clients "Steve's Parents" investment plans. We are processing historic data and provide athe Total Daily Volume and rate of return for each of the stocks in our dataset.
 
-![initial analysis results](https://raw.githubusercontent.com/jhonpire/stock-analysis/main/Resources/initial_analysis_results_2017.png)(https://raw.githubusercontent.com/jhonpire/stock-analysis/main/Resources/initial_analysis_results_2018.png)
+![initial analysis results 2017](https://raw.githubusercontent.com/jhonpire/stock-analysis/main/Resources/initial_analysis_results_2017.png)![initial analysis results 2018](https://raw.githubusercontent.com/jhonpire/stock-analysis/main/Resources/initial_analysis_results_2018.png)
 
 ### Purpose
 The purpose of this Project is to make facilitate the processing and analysis of data for Steve's parents investments plans by automating the process of selecting, filtering, calculating and formating of information to turn thousands of lines of data into easy-to-read information, and that way make their selection easier.
@@ -23,7 +23,7 @@ The analysis performed of the data provided showed that investing on Green energ
 
 ### Challenges and Difficulties Encountered
 With the code writen to perform the analysis, we noticed that the way it had been factored made it take longer to perform the analysis and generate results. For that reason we decided to refactor the code and change the order in which the information would be processed to save time and resources. Here we show a screen capture presenting shorter times to run compared to the previous version.
-![Refactored analysis results](https://github.com/jhonpire/stock-analysis/blob/main/Resources/refactored_analysis_results_2017.png?raw=true)(https://github.com/jhonpire/stock-analysis/blob/main/Resources/refactored_analysis_results_2018.png?raw=true)
+![Refactored analysis results 2017](https://github.com/jhonpire/stock-analysis/blob/main/Resources/refactored_analysis_results_2017.png?raw=true)![Refactored analysis results 2018](https://github.com/jhonpire/stock-analysis/blob/main/Resources/refactored_analysis_results_2018.png?raw=true)
 
 ## Results
 

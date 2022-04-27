@@ -22,6 +22,7 @@ The outcomes for the behavior of the stocks on the market meant that the year 20
 The analysis performed of the data provided showed that investing on Green energy is not a good idea for Steve's parents as we discovered that 10 out 12 of the stocks included in the sheet, presented negative numbers for the year of 2018. Compared to the previous year 2017, wher only one stock had been on negative with 11 showing returns of investement.
 
 ### Challenges and Difficulties Encountered
+
 With the code writen to perform the analysis, we noticed that the way it had been factored made it take longer to perform the analysis and generate results. For that reason we decided to refactor the code and change the order in which the information would be processed to save time and resources. Here we show a screen capture presenting shorter times to run compared to the previous version.
 ![Refactored analysis results 2017](https://github.com/jhonpire/stock-analysis/blob/main/Resources/refactored_analysis_results_2017.png?raw=true)![Refactored analysis results 2018](https://github.com/jhonpire/stock-analysis/blob/main/Resources/refactored_analysis_results_2018.png?raw=true)
 

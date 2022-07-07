@@ -38,4 +38,4 @@ What are some limitations of this dataset?
 - This dataset only contains the information of 2 years of performance records which in most cases may be too little information to make this type of decision.
 
 What are some other possible tables and/or graphs that we could create?
-- According to the type of information available, we could create ***Bar Graphs*** to compare side by side the performance of each stock based on the year of investments on the stock market.
+- According to the type of information available, we could create ***Bar Graphs*** to compare side by side the performance of each stock based on the year of investments on the stock market. 
